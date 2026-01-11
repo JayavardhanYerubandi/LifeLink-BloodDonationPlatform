@@ -1,4 +1,4 @@
-# LifeLink: Online Blood Donation Platform
+# LifeLink: Blood Donation Platform
 
 A comprehensive Django-based web application for connecting blood donors, blood banks, and patients. Built as a final-year academic project with real-time chat functionality and location-aware features.
 
@@ -196,4 +196,5 @@ This project is developed for academic purposes.
 ## Author
 
 Developed as a final-year academic project demonstrating Django full-stack development capabilities.
+
 
